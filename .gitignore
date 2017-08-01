@@ -11,3 +11,4 @@ bower.json
 *.log
 
 config.user.js
+package-lock.json

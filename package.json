@@ -19,12 +19,14 @@
     "grunt-ng-annotate": "^0.10.0",
     "grunt-replace": "^0.8.0",
     "grunt-shell": "^1.1.2",
+    "grunt-swagger-js-codegen": "^0.4.6",
     "grunt-template": "^0.2.3",
     "grunt-usemin": "^2.6.2",
     "grunt-wiredep": "^2.0.0",
     "http-proxy": "^1.12.0",
     "load-grunt-tasks": "^1.0.0",
-    "ncp": "^2.0.0"
+    "ncp": "^2.0.0",
+    "grunt-aliyun-oss": "*"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
